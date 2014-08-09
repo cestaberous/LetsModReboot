@@ -17,12 +17,12 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.7.2-1.0" //Version of your Mod, MC version is prefix
+version = "1.7.10-1.0" //Version of your Mod, MC version is prefix
 group= "com.cestaberous.letsmodreboot" // http://maven.apache.org/guides/mini/guide-naming-conventions.html //Base of package structure
 archivesBaseName = "LetsModReboot" //Name of your JAR file (first part)
 
 minecraft {
-    version = "1.7.2-10.12.2.1121" //What Forge Version to use x.x.x (MC Version) - x.x.x.xxxx (Forge Version)
+    version = "1.7.10-10.13.0.1160" //What Forge Version to use x.x.x (MC Version) - x.x.x.xxxx (Forge Version)
     assetDir = "eclipse/assets" //Where to put decomp code
 }
 

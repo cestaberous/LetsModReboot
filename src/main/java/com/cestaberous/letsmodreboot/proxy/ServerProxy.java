@@ -1,7 +1,7 @@
 package com.cestaberous.letsmodreboot.proxy;
 
-/**
- * Created by garrett on 8/8/14.
- */
-public class ServerProxy {
+
+public class ServerProxy extends CommonProxy
+{
+
 }
