@@ -1,0 +1,10 @@
+# Configuration file
+
+forgecraft {
+    B:configValue true
+}
+
+general {
+    # This is and example config value
+    B;configValue true
+}
